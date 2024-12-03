@@ -1,0 +1,345 @@
+ 
+     
+     .bo{
+       
+        width: 345px;
+        height: 665px;
+        border: none;
+        border-radius: 8px;
+        background: white;
+            text-align: center;
+       
+        align-items: center;
+      
+    } 
+    
+#googlA{
+    margin: -80px 0px 0px 15px;
+    font-weight: bold;
+}
+
+    .bodA{
+       
+        width: 345px;
+        height: 350px;
+        border: none;
+        border-radius: 8px;
+        background: white;
+        margin: 0px 0px 0px 0px ;
+    }
+    .bodB{
+       
+        width: 345px;
+        height: 260px;
+        border: none;
+        border-radius: 8px;
+        background: white;
+        margin: 20px 0px 0px 0px ;
+    }
+  
+  input {
+        width: 330px;
+        height: 50px;
+        background: rgba(250,250,250,0.3);
+        color: black;
+        border: none;
+        border-radius: 50px ;
+        padding-left: 50px;
+        padding-right: 90px;
+        font-size: 17px;
+        box-shadow: 0px 0px 6px black;
+       outline: none;
+          } 
+          
+    #pesquisa{
+       margin: -30px 0px 0px 20px;
+    } 
+    .pesquisarA{
+        width: 10px;
+        height: 10px;
+        background: transparent;
+        border: 3px solid black;
+        border-radius: 50px ;
+    } 
+    
+    .pesquisarAa{
+        width: 3px;
+        height: 13px;
+        background: black;
+        border: none;
+        border-radius: 50px ;
+        margin: -4.5px 0px 0px 15px;
+        transform: rotate(-40deg);
+    }
+    
+    #voz{
+        margin: -25px 0px 0px 220px;
+    }
+    .vozA{
+        width: 7px;
+        height: 14px;
+        background: black;
+        border: none;
+        border-radius: 10px ;
+    } 
+    .vozAa{
+        width: 9px;
+        height: 5px;
+        background: transparent;
+       
+        border: 3px solid black;
+        border-top: none;
+        border-radius: 10px ;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        margin: -4px 0px 0px -4px;
+    } 
+    .vozAaa{
+        width: 3px;
+        height: 5px;
+        background: black;
+        border: none;
+        margin: -1px 0px 0px 2px;
+    }
+    
+    #camera{
+        margin: -19px 0px 0px 250px ;
+    }
+    .cameraA{
+        width: 10px;
+        height: 9px;
+        border: none ;
+        border-radius: 5px;
+        
+    }
+    .cameraAa{
+        width: 10px;
+        height: 9px;
+        border: none ;
+        border-radius: 5px;
+        background: red;
+        margin: -9px 0px 0px 3px;
+    }
+    .cameraAaa{
+        width: 12px;
+        height: 10px;
+        border: none ;
+        border-radius: 5px;
+        border-top-right-radius: 1px;
+        background: blue;
+        margin: -15px 0px 0px -3px;
+    }
+    .cameraAaaa{
+        width: 12px;
+        height: 10px;
+        border: none ;
+        border-radius: 0px;
+        border-top-right-radius: 5px;
+        background: green;
+        margin: -3px 0px 0px 1px;
+    }
+    .cameraAaaaa{
+        width: 12px;
+        height: 10px;
+        border: none ;
+        border-radius: 0px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 1px;
+        background: orange;
+        margin: -5px 0px 0px -3px;
+    }
+    .camerab{
+        width: 5px;
+        height: 5px;
+        border: none ;
+        border-radius: 2px;
+        background: white;
+        margin: -6.8px 0px 0px -0.5px ;
+        padding: 3px;
+    }
+    .blue{
+        width: 5px;
+        height: 5px;
+        border: none ;
+        border-radius: 10px;
+        background: blue;
+       
+    }
+     .ca{
+        width: 7px;
+        height: 5px;
+        border: none ;
+        border-radius: 2px;
+        background: blue;
+        margin: -4px 0px 0px 1.5px ;
+       
+    }
+    
+    .linha{
+        width: 1px ;
+        height: 40px;
+        border: none;
+        background: grey;
+        margin: -45px 0px 0px 280px;
+    }
+    
+    #rosto{
+        margin: -17px 0px 0px 292px;
+    }
+    .bone{
+        width: 12px ;
+        height: 10px;
+        border: none;
+        background: blue;
+       
+      
+    }
+    .boneb{
+        width: 4px ;
+        height: 11px;
+        border: none;
+        background: white;
+        margin: 0px 0px 0px -3px;
+        transform: rotate(10deg);
+        
+    }
+    .bonec{
+       
+        width: 4px ;
+        height: 3px;
+        border: none;
+        border-radius: 20px;
+        background: white;
+        margin: -12px 0px 0px 4px;
+    }
+    .boned{
+        width: 4px ;
+        height: 11px;
+        border: none;
+        background: white;
+        margin: -2px 0px 0px 11px;
+        transform: rotate(-10deg);
+    }
+    .bonelinha{
+        background: blue;
+        width: 18px ;
+        height: 1px;
+        margin: 1px 0px 0px -3px;
+    }
+    .oculoA{
+        width: 4px ;
+        height: 4px;
+        border: 1.5px solid blue;
+        border-radius: 50px;
+        background: transparent;
+        margin: 1px 0px 0px -2px;
+    }
+    .oculoB{
+        width: 4px ;
+        height: 2px;
+        background: blue;
+        margin: -5px 0px 0px 4px;
+    }
+    .oculoC{
+        width: 4px ;
+        height: 4px;
+        border: 1.5px solid blue;
+        border-radius: 50px;
+        background: transparent;
+        margin: -4px 0px 0px 7px;
+    }
+    
+ #ir{
+     font-weight: bold;
+     margin: -28px 0px 0px 265px;
+ }
+ #x{
+    
+     margin: -20px 0px 0px 260px;
+ }
+.xA{
+    width: 2px ;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+    background: black;
+    transform: rotate(45deg);
+}
+.xB{
+    width: 2px ;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+    background: black;
+    transform: rotate(-45deg);
+    margin: -20px 0px 0px 0px ;
+}
+#googlino{
+    margin: -302px 0px 0px 20px;
+}
+  .Googlinho{
+        width: 13px;
+        height: 13px;
+        background: transparent;
+        border: 5px solid red;
+        border-left-color: orange;
+        border-bottom-color: green;
+        border-right-color: transparent;
+        border-radius: 50px;
+    }
+    
+    .GooglinhoA{
+        width: 13px;
+        height: 7px;
+        background: transparent;
+        border: 5px solid transparent;
+        border-right-color: blue;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-right-radius: 30px;
+        margin: 1px 0px 0px -5.5px ;
+    }
+    .GooglinhoAa{
+        width: 8px ;
+        height: 5px;
+        background: blue;
+        border: none;
+        margin: -2.8px 0px 0px 7.5px;
+    }
+      
+
+#sua{
+        width: 345px;
+        border: none;
+        border-radius: 8px;
+        background: rgba(250,250,250,0.3);
+       margin: 0px 0px 23px 0px;
+       padding-top: 180px;
+       padding-left: 2px;
+       text-align: start;
+}
+.black{
+        width: 326px;
+        height: 130px;
+        border: none;
+        border-radius: 3px;
+        background: black;
+        padding-left: 15px;
+        padding-top: 15px;
+        margin-top: 0px;
+}
+.goo{
+       
+        border: none;
+        border-radius: 50px;
+       
+        background: blue;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 0px;
+        padding-right: 3px;
+        padding-left: 3px;
+        margin-bottom: 10px;
+}
+        
